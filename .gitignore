@@ -1,5 +1,9 @@
 vendor
-wordpress
+wordpress/*
+!wordpress/wp-content
+wordpress/wp-content/*
+!wordpress/wp-content/plugins
+wordpress/wp-content/plugins/*
 !wordpress/wp-content/plugins/rabbitmq-test
 
 node_modules/

@@ -1,0 +1,8 @@
+{
+    "name": "peter/rabbitmq",
+    "description": "A Rabbitmq test",
+    "type": "wordpress-core",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.7"
+    }
+}
