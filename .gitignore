@@ -1,0 +1,5 @@
+vendor
+wordpress
+!wordpress/wp-content/plugins/rabbitmq-test
+
+node_modules/

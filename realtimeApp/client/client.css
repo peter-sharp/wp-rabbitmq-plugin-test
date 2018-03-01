@@ -1,0 +1,10 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  padding: 2rem;
+}
+.post +.post {
+  margin-top: 4rem;
+}
