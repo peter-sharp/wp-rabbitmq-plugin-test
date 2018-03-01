@@ -6,8 +6,13 @@
 [rabbitmq setup instructions](https://www.rabbitmq.com/download.html)
 php needed extensions bcmath and mbstring (likely enabled by default)
 
-to setup run (todo get this to work):
+to setup run:
 ```bash
-> composer create-project rabbitmqtest peter/rabbitmq --repository https://github.com/peter-sharp/wp-rabbitmq-plugin-test.git
+> git clone https://github.com/peter-sharp/wp-rabbitmq-plugin-test.git
+```
+then
+```bash
+> cd wp-rabbitmq-plugin-test
+> composer install
 ```
 (info on create project [here](https://getcomposer.org/doc/03-cli.md#create-project))
