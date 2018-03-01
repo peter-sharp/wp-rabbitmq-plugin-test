@@ -1,7 +1,7 @@
 {
     "name": "peter/rabbitmq",
     "description": "A Rabbitmq test",
-    "type": "wordpress-core",
+    "type": "project",
     "require": {
         "johnpbloch/wordpress-core-installer": "1.0.0.2",
         "johnpbloch/wordpress": "^4.9"
